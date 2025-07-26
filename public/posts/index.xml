@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on howooyeon devlog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on howooyeon devlog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 26 Jul 2025 16:52:13 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sat, 26 Jul 2025 16:52:13 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;두번째-포스트라네&#34;&gt;두번째 포스트라네&lt;/h2&gt;&#xA;&lt;p&gt;안넝하세요~&#xA;댓글 달아주세요~~~ 네?&lt;del&gt;!!&lt;/del&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 26 Jul 2025 16:49:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;첫-게시물&#34;&gt;첫 게시물!&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;완전 뿌듯뿌듯합니당.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
