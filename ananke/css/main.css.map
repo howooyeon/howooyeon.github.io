@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/susc-github-actions-2025/srcs",
+	"sourceRoot": "/home/runner/work/howooyeon.github.io/howooyeon.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
