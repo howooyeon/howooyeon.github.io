@@ -1,0 +1,4 @@
+baseURL = 'https://howooyeon.github.io/'
+languageCode = 'ko-kr'
+title = 'howooyeon devlog'
+theme = 'ananke'
